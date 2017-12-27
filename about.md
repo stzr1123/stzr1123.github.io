@@ -14,7 +14,7 @@ You are more than welcome to drop me a line on [LinkedIn](https://www.linkedin.c
 ### My Web Presence
 
 #### Code
-* [Github](http://github.com/stzr1123)
+* [Github](https://github.com/stzr1123)
 
 #### Professional network
 * [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)

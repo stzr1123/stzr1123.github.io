@@ -16,11 +16,11 @@ Through this project I got close and personal with automated trading as well, an
 
 ### WIRE &mdash; Web Interfaced Reverb Engine (2016)
 
-This project consists of a convolution reverb which can be easily accessed and used through a [Web based frontend](http://stzr1123.github.io/assets/wire_app_screenshot.png). This software is capable of taking a ["dry" sound](http://stzr1123.github.io/assets/avril.wav) and emulating the reverb qualities of a real space (e.g. [the Booth business school atrium](http://stzr1123.github.io/assets/Booth_atrium.wav)). The end result is a [sound file](http://stzr1123.github.io/assets/avril_convolved_with Booth_atrium.wav) which appears to be recorded from within that particular real space.
+This project consists of a convolution reverb which can be easily accessed and used through a [Web based frontend](https://stzr1123.github.io/assets/wire_app_screenshot.png). This software is capable of taking a ["dry" sound](https://stzr1123.github.io/assets/avril.wav) and emulating the reverb qualities of a real space (e.g. [the Booth business school atrium](https://stzr1123.github.io/assets/Booth_atrium.wav)). The end result is a [sound file](https://stzr1123.github.io/assets/avril_convolved_with Booth_atrium.wav) which appears to be recorded from within that particular real space.
 
-At the same time, the software can generate visualizations of the [waveforms](http://stzr1123.github.io/assets/Booth_atrium_waveform.png) and [spectrograms](http://stzr1123.github.io/assets/Booth_atrium_spectrogram.png) in order to aid in understanding your transformed audio files.
+At the same time, the software can generate visualizations of the [waveforms](https://stzr1123.github.io/assets/Booth_atrium_waveform.png) and [spectrograms](https://stzr1123.github.io/assets/Booth_atrium_spectrogram.png) in order to aid in understanding your transformed audio files.
 
-The project also incorporates some other sound transformations one of which is ring modulation which can make a recording of your voice [sound like R2D2](http://stzr1123.github.io/assets/R2D2_voice_ring_modulation_at_2000_Hz.wav), among other things.
+The project also incorporates some other sound transformations one of which is ring modulation which can make a recording of your voice [sound like R2D2](https://stzr1123.github.io/assets/R2D2_voice_ring_modulation_at_2000_Hz.wav), among other things.
 
 Lastly, it incorporates a reverb recognition analysis module which is capable of extracting the reverb signature present in a "wet" sound and matching it to the reverb response from one of the studied real spaces. That way, if you input a sound file which was recorded inside the atrium of the Booth school of business, the software will be able to detect this with a certain degree of accuracy. You can read more about this module in its [documentation](https://github.com/jkyl/conv_reverb/tree/master/conv_reverb/reverb_analysis).
 
