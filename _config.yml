@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge # previously pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Esteban Zacharzewski
+tagline:          University of Chicago
+url:
+paginate:         1
+baseurl:          https://stzr1123.github.io/
+author:
+  name:           Esteban Zacharzewski
+  url:
+  email:
+
+# Custom vars
+version:
+github:
+  repo:
+
+# This is the list of pages to incldue in the header of the website.
+pages_list:       {'About':'/about','Entries':'/entries','More':'/more'}
