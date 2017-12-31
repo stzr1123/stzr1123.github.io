@@ -1,13 +1,13 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      rouge # previously pygments
+highlighter:      rouge  # previously pygments
 
 # Permalinks
 permalink:        pretty
 
 # Setup
 title:            Esteban Zacharzewski
-tagline:          University of Chicago
+tagline:
 url:
 paginate:         1
 baseurl:          https://stzr1123.github.io/

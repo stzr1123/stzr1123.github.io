@@ -7,4 +7,4 @@ title: More
 A list of projects I have worked on.
 
 ## [Machine Learning Resources](/machine_learning)
-My recommendations on various resources for ML and AI.
+My recommendations on some resources for ML and AI.

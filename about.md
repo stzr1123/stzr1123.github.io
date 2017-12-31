@@ -3,13 +3,11 @@ layout: page
 title: About
 ---
 
-Hi! I'm a software engineer passionate about new ideas, technologies and working together with others. I currently live in Berlin where I'm part of the Search and Discovery team at [Delivery Hero](https://www.deliveryhero.com/). We are tackling the problem of knowing what food you'd want to order and when, before even *you* know it.
+I'm a software engineer powered by new ideas, technologies and working with others. I currently live in Berlin where I'm part of the Search and Discovery team at [Delivery Hero](https://www.deliveryhero.com/).
 
-I have research interests in machine learning and to a lesser degree blockchains. Outside of work, I'm an avid runner and a frequenter of Meetups.
+Here you'll find some of my [blog entries](/entries), some personal [projects](/projects) and some [machine learning resources](/machine_learning) which I've found particularly insightful.
 
-Here you'll find some of my [blog entries](/entries), some personal [projects](/projects) and some of my favorite [machine learning resources](/machine_learning) that you can read on about.
-
-You are more than welcome to drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski).
+You are welcome to drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski).
 
 ### My Web Presence
 
