@@ -24,4 +24,4 @@ The project also incorporates some other sound transformations one of which is r
 
 Lastly, it incorporates a reverb recognition analysis module which is capable of extracting the reverb signature present in a "wet" sound and matching it to the reverb response from one of the studied real spaces. That way, if you input a sound file which was recorded inside the atrium of the Booth school of business, the software will be able to detect this with a certain degree of accuracy. You can read more about this module in its [documentation](https://github.com/jkyl/conv_reverb/tree/master/conv_reverb/reverb_analysis).
 
-This project lives in [Github](https://github.com/jkyl/conv_reverb).
+This project lives on [Github](https://github.com/jkyl/conv_reverb).

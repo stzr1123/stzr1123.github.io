@@ -5,7 +5,7 @@ title: About
 
 I'm a software engineer powered by new ideas, technologies and working with others. I currently live in Berlin where I'm part of the Search and Discovery team at [Delivery Hero](https://www.deliveryhero.com/).
 
-Here you'll find some of my [blog entries](/entries), some personal [projects](/projects) and some [machine learning resources](/machine_learning) which I've found particularly insightful.
+Here you'll find some of my [blog entries](/entries) and some personal [projects](/projects).
 
 You are welcome to drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski).
 
