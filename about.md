@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm a software engineer powered by new ideas, technologies and working with others. I currently live in Berlin where I'm part of the Search and Discovery team at [Delivery Hero](https://www.deliveryhero.com/).
+I'm a software engineer powered by new ideas, technologies and working with others. I currently live in Munich where I'm part of the innovation team at [Allianz](https://www.allianz.com/).
 
 Here you'll find some of my [blog entries](/entries) and some personal [projects](/projects).
 
