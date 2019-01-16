@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm a software engineer powered by new ideas, technologies and working with others. I currently live in Munich where I'm part of the data engineering team at [Allianz](https://www.allianz.com/).
+I'm a software engineer powered by new ideas, technologies and working with others. I currently live in Munich where I'm part of the data science platform team at [Allianz](https://www.allianz.com/).
 
 Here you'll find some of my [blog entries](/entries) and some personal [projects](/projects).
 
