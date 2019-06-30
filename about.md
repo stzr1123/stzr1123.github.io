@@ -5,7 +5,7 @@ title: About
 
 I'm a software engineer powered by new ideas, technologies and working with others. Striving to build amazing products! 
 
-I currently live in Munich where I'm part of the Advanced Business Analytics global team at [Allianz](https://www.allianz.com/). We craft and deploy machine learning powered solutions which enable the Allianz local entities to vastly improve their line of business. 
+I currently live in Munich where I'm part of the Data Engineering team at [FINEWAY](https://www.fineway.de/).
 
 Here you'll find some of my [blog entries](/entries) and some personal [projects](/projects).
 
