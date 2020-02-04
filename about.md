@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-I'm a software engineer powered by new ideas, technologies and working with others. Striving to build amazing products! 
+I'm a software engineer powered by new ideas, technologies and working with others to build amazing products.
 
-I currently live in Munich where I'm part of the Data Engineering team at [FINEWAY](https://www.fineway.de/).
+I currently live in Vancouver and working at [Tasktop](https://www.tasktop.com/).
 
 Here you'll find some of my [blog entries](/entries) and some personal [projects](/projects).
 
