@@ -3,14 +3,12 @@ layout: page
 title: About
 ---
 
-I'm a software engineer powered by new ideas, technologies and working with others to build amazing products.
+I'm a software engineer powered by a good night's sleep and good ideas.
 
-I currently live in Vancouver and working at [Tasktop](https://www.tasktop.com/).
-
-Drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)!
+Let's link and meet up over Zoom. Drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)!
 
 ### My favorite tools
-* Scala -- ♥️ functional programming
+* Scala -- I ♥️ FP[^footnote_one]
 * Python
 * git
 * Intellij
@@ -19,11 +17,14 @@ Drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)!
 * Postgres
 
 ### What I want to delve deeper into
-* Akka
 * Kafka
-* ReactJS
+  * distributed systems
+  * distributed transactions
+  * CQRS
+* React
+* Akka
 
-### My Web presence
+### My Web footprint
 
 #### Code
 * [Github](https://github.com/stzr1123)
@@ -32,5 +33,7 @@ Drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)!
 * [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)
 * [Xing](https://www.xing.com/profile/Esteban_Zacharzewski)
 
-#### Other
+#### Fitness
 * [Strava](https://www.strava.com/athletes/9632376)
+
+[^footnote_one]: Functional programming.
