@@ -5,7 +5,7 @@ title: About
 
 I'm a software engineer powered by a good night's sleep and good ideas.
 
-Let's link and meet up over Zoom. I'm open to contract and remote work.
+Let's link and meet up over Zoom. I'm open to remote contract work.
 
 Drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)!
 
