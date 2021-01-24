@@ -5,18 +5,21 @@ title: About
 
 I'm a software engineer powered by a good night's sleep and good ideas.
 
-Let's link and meet up over Zoom. Drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)!
+Let's link and meet up over Zoom. I'm open to contract and remote work.
+
+Drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)!
 
 ### My favorite tools
 * Scala -- I ♥️ FP[^footnote_one]
 * Python
+* AWS
 * git
 * Intellij
 * Docker
 * Kubernetes
 * Postgres
 
-### What I want to delve deeper into
+### What I'm currently learning more about
 * Kafka
   * distributed systems
   * distributed transactions
