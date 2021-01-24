@@ -5,7 +5,7 @@ title: About
 
 I'm a software engineer powered by a good night's sleep and good ideas.
 
-Let's link and meet up over Zoom. I'm open to remote contract work.
+Let's link up and meet over Zoom. I'm open to remote contract work.
 
 Drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)!
 
@@ -19,7 +19,7 @@ Drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)!
 * Kubernetes
 * Postgres
 
-### What I'm currently learning more about
+### What I'm delving deeper into
 * Kafka
   * distributed systems
   * distributed transactions
