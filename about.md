@@ -13,6 +13,7 @@ Drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)!
 * Scala -- I ♥️ FP[^footnote_one]
 * Python
 * AWS
+* Typescript
 * git
 * Intellij
 * Docker
