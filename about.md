@@ -10,10 +10,10 @@ Let's link up and meet over Zoom. I'm open to remote contract work.
 Drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)!
 
 ### My favorite tools
-* Scala -- I ♥️ FP[^footnote_one]
-* Python
+* Scala -- I ♥️ Functional Programming
+* Kafka
 * AWS
-* Typescript
+* React
 * git
 * Intellij
 * Docker
@@ -22,10 +22,8 @@ Drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)!
 
 ### What I'm delving deeper into
 * Kafka
-  * distributed systems
   * distributed transactions
   * CQRS
-* React
 * Akka
 
 ### My Web footprint
@@ -39,5 +37,3 @@ Drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)!
 
 #### Fitness
 * [Strava](https://www.strava.com/athletes/9632376)
-
-[^footnote_one]: Functional programming.
