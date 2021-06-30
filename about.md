@@ -3,24 +3,26 @@ layout: page
 title: About
 ---
 
-I'm a software engineer powered by a good night's sleep and good ideas.
+I'm a scala software engineer powered by a good night's sleep and good ideas.
 
-Let's link up and meet over Zoom. I'm open to remote contract work.
+Let's link up and meet over Zoom. I'm open to fully remote work.
 
 Drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)!
 
-### My favorite tools
+### My main focus
 * Scala -- I ♥️ Functional Programming
 * Kafka
-* AWS
 * React
+
+### My accompanying tools
+* AWS
 * git
 * Intellij
 * Docker
 * Kubernetes
 * Postgres
 
-### What I'm delving deeper into
+### What I'm currently learning more of
 * Kafka
   * distributed transactions
   * CQRS
