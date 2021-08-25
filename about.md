@@ -36,6 +36,3 @@ Drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)!
 #### Professional network
 * [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)
 * [Xing](https://www.xing.com/profile/Esteban_Zacharzewski)
-
-#### Fitness
-* [Strava](https://www.strava.com/athletes/9632376)
