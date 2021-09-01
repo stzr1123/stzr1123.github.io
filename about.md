@@ -3,16 +3,15 @@ layout: page
 title: About
 ---
 
-I'm a Scala Software Engineer powered by a good night's sleep.
+I'm a Python Developer powered by a good night's sleep.
 
 Let's link up and meet over Zoom. I'm open to fully remote work.
 
 Drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)!
 
 ### My main focus
-* Scala -- Functional Programming
-* Kafka
-* Typescript
+* Python
+* Scala
 
 ### My accompanying tools
 * AWS
@@ -21,12 +20,6 @@ Drop me a line on [LinkedIn](https://www.linkedin.com/in/esteban-zacharzewski)!
 * Docker
 * Kubernetes
 * Postgres
-
-### What I'm currently learning more of
-* Kafka
-  * distributed transactions
-  * CQRS
-* Akka
 
 ### My Web footprint
 
