@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm a Software Engineer with 5+ years of professional experience working for clients with high-stakes applications and the highest standards. I have a proven track record of delivering innovative solutions that have reached a global scale. Expertise spans multiple cloud environments and programming languages, including Python, Scala, and Golang.
+I'm a Software Engineer with 5+ years of professional experience working for clients with high-stakes applications and the highest standards. I have a proven track record of delivering innovative solutions that have reached a global scale. My expertise spans multiple cloud environments and programming languages, including Python, Scala, and Golang.
 
 Let's link up and meet up over a call. I'm open to remote work.
 
